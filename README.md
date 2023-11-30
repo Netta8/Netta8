@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Netta Barel! 👋
 
-<!--
-**Netta8/Netta8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm on a coding adventure in the vibrant city of Berlin, Germany. When I'm not soaking in the creative atmosphere, you can find me turning coffee into code. I thrive on solving problems and embracing the endless possibilities in the digital realm.
 
-Here are some ideas to get you started:
+## Tech Journey
+- **Languages:** JavaScript.
+- **Frameworks:** React.js, Node.js, and Express.js.
+- **Database:** MongoDB.
+- **Tools of the Trade:** NPM, Git, VSCode, and Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Crafting the Web
+In the dynamic world of web technologies, here's where I thrive:
+- **HTML, CSS:** I enjoy crafting the backbone and aesthetics of web content.
+- **Bootstrap, MUI, Tailwind CSS, SASS:** Shaping the visual experience.
+- **RESTful APIs:** Connecting the dots seamlessly.
+
+## Let's Connect!
+If you have a coding challenge or just want to chat about the latest tech trends, feel free to drop me an email at netta7398@gmail.com. Excited to collaborate and create something awesome together!
