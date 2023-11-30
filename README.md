@@ -1,4 +1,4 @@
-# Hi there, I'm Netta Barel! 👋
+# Hi there, I'm Netta Barel!
 
 ## About Me
 I'm on a coding adventure in the vibrant city of Berlin, Germany. When I'm not soaking in the creative atmosphere, you can find me turning coffee into code. I thrive on solving problems and embracing the endless possibilities in the digital realm.
@@ -14,6 +14,9 @@ In the dynamic world of web technologies, here's where I thrive:
 - **HTML, CSS:** I enjoy crafting the backbone and aesthetics of web content.
 - **Bootstrap, MUI, Tailwind CSS, SASS:** Shaping the visual experience.
 - **RESTful APIs:** Connecting the dots seamlessly.
+
+- # Check Out My Latest Project!
+Feel free to explore my latest project, [Beyond Work](https://beyondworkclient.onrender.com/). It's a testament to my passion for creating meaningful digital experiences. Let me know what you think!
 
 ## Let's Connect!
 If you have a coding challenge or just want to chat about the latest tech trends, feel free to drop me an email at netta7398@gmail.com. Excited to collaborate and create something awesome together!
