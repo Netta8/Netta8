@@ -1,7 +1,7 @@
 # Hi there, I'm Netta Barel!
 
 ## About Me
-I'm on a coding adventure in the vibrant city of Berlin, Germany. When I'm not soaking in the creative atmosphere, you can find me turning coffee into code. I thrive on solving problems and embracing the endless possibilities in the digital realm.
+Embarking on a coding journey in the lively city of Berlin, Germany, is where you'll find me. Beyond the creative vibes, I immerse myself in coding, drawing inspiration from the rich blend of challenges and possibilities within the digital realm.
 
 ## Tech Journey
 - **Languages:** JavaScript.
